@@ -7,7 +7,13 @@
         {
             "name": "Dart & Flutter",
             "request": "launch",
+<<<<<<< HEAD
             "type": "dart"
+=======
+            "type": "dart",
+            "console":"terminal",
+            "program": "main.dart",
+>>>>>>> a6bab504eef3dfb4f64493ad8857b1ea1b907cbb
         }
     ]
 }
